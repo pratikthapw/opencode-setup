@@ -4,3 +4,5 @@ antigravity-signature-cache.json
 antigravity-logs/
 node_modules
 .env
+opencode-notifier-state.json
+scripts/check-quota.mjs
