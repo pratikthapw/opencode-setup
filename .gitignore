@@ -9,6 +9,7 @@ opencode-notifier-state.json
 codex-accounts.json
 # scripts/check-quota.mjs
 .gitignore
+cache/**
 codex-accounts.json
 codex-accounts.json.tmp.*
 codex-accounts.json.*.tmp
