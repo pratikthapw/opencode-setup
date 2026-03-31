@@ -6,5 +6,13 @@ node_modules
 .env
 .env.local
 opencode-notifier-state.json
+codex-accounts.json
 # scripts/check-quota.mjs
 .gitignore
+codex-accounts.json
+codex-accounts.json.tmp.*
+codex-accounts.json.*.tmp
+quarantine/
+cache/codex-session-affinity.json
+cache/codex-snapshots.json
+logs/codex-plugin/

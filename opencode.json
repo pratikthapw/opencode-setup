@@ -2,10 +2,10 @@
   "$schema": "https://opencode.ai/config.json",
   "plugin": [
     "opencode-antigravity-auth@beta",
-    "opencode-openai-codex-auth",
     "opencode-snip@latest",
-    "@mohak34/opencode-notifier@latest",
-    "@tarquinen/opencode-dcp@latest"
+    "@tarquinen/opencode-dcp@latest",
+    "@iam-brain/opencode-codex-auth@latest",
+    "@mohak34/opencode-notifier@latest"
   ],
   "provider": {
     "openai": {
