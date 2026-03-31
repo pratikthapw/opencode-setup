@@ -4,6 +4,7 @@ antigravity-signature-cache.json
 antigravity-logs/
 node_modules
 .env
+.env.local
 opencode-notifier-state.json
-scripts/check-quota.mjs
+# scripts/check-quota.mjs
 .gitignore
